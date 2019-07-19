@@ -1,0 +1,6 @@
+{
+    "serverport": ":4888",
+     "MONGODSN": "localhost:27017",
+     "DBNAME": "test",
+      "JWTSecretKey": "projectSecreteKey"
+}
